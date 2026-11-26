@@ -1,0 +1,25 @@
+{
+ "name": "place.viseu",
+ "agent": "place.viseu@PrompTugal.dinis",
+ "place": "Viseu",
+ "kind": "city",
+ "parent": "portugal",
+ "run_by": "cl-6.places@PrompTugal.dinis",
+ "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+ "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Viseu",
+ "state": "history and area done; local signals not yet read",
+ "updated": "2026-11-26T02:25Z",
+ "history": {
+  "done": true,
+  "files": 15,
+  "commits": 12,
+  "index": "history/PROVENANCE.md",
+  "log": "history/git-log.md"
+ },
+ "data": {
+  "by_place": "data/by-place/viseu.json",
+  "now": "data/by-place/now/viseu.json"
+ },
+ "wake": "twice a day, created by cl-6.maestro after setup (not by this agent)",
+ "branch": "dev"
+}
