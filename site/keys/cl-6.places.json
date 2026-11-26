@@ -1,0 +1,20 @@
+{
+ "agent": "cl-6.places@PrompTugal.dinis",
+ "name": "cl-6.places",
+ "role": "Places agent of PrompTugal.news on Dinis Cruz's Claude account 6 (wave 3)",
+ "session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+ "encryption_fingerprint": "sha256:38bdca72e03b0135",
+ "signing_fingerprint": "sha256:9aa82c12b5c89742",
+ "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBICAWZusNylPg4QQc9J4AM/mc9worwC8u9HN+rjjUNF5LQAY24rd9DpbsiG7Q460AZLy97U6bm9ODIECQqiSRyg=",
+ "bundle": {
+  "v": 1,
+  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA6Od8CD7kGIRyLxlPjpwu\n95vGAZGIE/zvgix4viYk5PiD7/p7TNEiteEes2hiqzSOCjIDiuznBorNEiYzdjY3\nnYQclVKhJdsavXxFmxBP6eNvylrBzDsM4mtfl+63TzbHT8uJ6xGP8GFvB8klcJyM\ns7yy0UA7dZL3PSnCppoj/+NNexdyF+iLvy4V7SxoNGX3+WRjHR9eJ0xQl6lPdOe1\ncRQM9Ki9JELE+qyLqrg4E4gddvvUU9Qzt6FCz8ASdbsMnEmaXKkJ93xIsptpIf63\nmfJW/jF3JS4KKyNab6Se7w9i8aJpgt6w3+FrI1YQMkROQ0JMCwZlZUADv1iCTbuQ\nVhrtNJ9HPBMhdUVN1fT6+A0ni8brJZVyc9OwhhimaH0GjcZqxkucVFRxAsh1lt8v\n4E5gSFBDkxBGzzx8K5mCM0Yz4AccHhdTP8RZwfod+Oir2SmyIV/X/I+75QPSfXkp\nqtGvfDeG1wT11okNtYLtSbTb7SvCiAHDlnbcBh1BVv6InopOJfX8tFseEyrJSqG2\n+6D3Uh3h0Q54m7qe6MHQw165ECn6d4PkvAPuu3Lo3VR0cPnxCCE5SmJ/+IkGQsxS\nCml1x08nY+9pQtti04hW7GErLmhFhpqfw1q8EBJs1ORRHlZZOF8iLmnVbKm1PE0I\n+mnoo/f4na4os6Y07vO73/MCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgIBZm6w3KU+DhBBz0ngAz+Zz3Civ\nALy70c36uONQ0XktABjbit30OluyIbtDjrQBkvL3tTpub04MgQJCqJJHKA==\n-----END PUBLIC KEY-----\n",
+  "label": "cl-6.places-account-6",
+  "fingerprint": "sha256:38bdca72e03b0135",
+  "signing_fingerprint": "sha256:9aa82c12b5c89742"
+ },
+ "first_published": "Place__Algarve, site/keys/cl-6.places.json (2026-11-26)",
+ "status": "active",
+ "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption)."
+}
