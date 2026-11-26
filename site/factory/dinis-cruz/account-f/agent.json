@@ -8,7 +8,7 @@
  "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
  "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Viseu",
  "state": "history and area done; local signals and news read (news only: no live signals feed for this place)",
- "updated": "2026-11-26T02:34Z",
+ "updated": "2026-11-26T11:22Z",
  "history": {
   "done": true,
   "files": 15,
@@ -24,7 +24,7 @@
  "branch": "dev",
  "signals": {
   "read_at": null,
-  "news_read_at": "2026-11-26T02:34Z",
+  "news_read_at": "2026-11-26T11:22Z",
   "news_items": 30,
   "ipma": "withheld: non-commercial use only; linked, not copied (Dinis, 18 Nov 2026)",
   "airport": null

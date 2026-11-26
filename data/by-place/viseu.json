@@ -642,83 +642,138 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.viseu@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Ouriços de Viseu sagram-se Vice-Campeões Nacionais",
-   "url": "https://viseunow.pt/ouricos-de-viseu-sagram-se-vice-campeoes-nacionais/",
+   "title": "AURORA estreia este sábado em Viseu",
+   "url": "https://viseunow.pt/aurora-estreia-este-sabado-em-viseu/",
    "source": "Viseu Now",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:31:39Z",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:14:48Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Urgências sob pressão: hospitais têm 3.000 camas ocupadas",
-    "url": "https://www.diarioviseu.pt/2026/11/25/urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas/?utm_source=rss&utm_medium=rss&utm_campaign=urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas",
-    "published": "2026-11-25T22:00Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
+    "title": "AURORA estreia este sábado em Viseu",
+    "url": "https://viseunow.pt/aurora-estreia-este-sabado-em-viseu/",
+    "published": "2026-11-26T11:11Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-26T11:14:48Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
    },
    {
-    "title": "Ministra da Cultura destaca mudança social para erradicar violência doméstica",
-    "url": "https://www.diarioviseu.pt/2026/11/25/ministra-da-cultura-destaca-mudanca-social-para-erradicar-violencia-domestica/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-da-cultura-destaca-mudanca-social-para-erradicar-violencia-domestica",
-    "published": "2026-11-25T21:45Z",
+    "title": "Ministério da Cultura autorizou nove pedidos de desafetação de salas de cinema",
+    "url": "https://www.diarioviseu.pt/2026/11/26/ministerio-da-cultura-autorizou-nove-pedidos-de-desafetacao-de-salas-de-cinema/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-da-cultura-autorizou-nove-pedidos-de-desafetacao-de-salas-de-cinema",
+    "published": "2026-11-26T11:00Z",
     "source": "Diário de Viseu",
     "source_site": "https://www.diarioviseu.pt",
     "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
+    "read_at": "2026-11-26T11:14:25Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Dois cães acorrentados resgatados de poço com 10 metros de profundidade em Sabrosa",
-    "url": "https://www.diarioviseu.pt/2026/11/25/dois-caes-acorrentados-resgatados-de-poco-com-10-metros-de-profundidade-em-sabrosa/?utm_source=rss&utm_medium=rss&utm_campaign=dois-caes-acorrentados-resgatados-de-poco-com-10-metros-de-profundidade-em-sabrosa",
-    "published": "2026-11-25T21:30Z",
+    "title": "CIM Viseu Dão Lafões avança com projeto para simplificar processos urbanísticos nos 14 municípios",
+    "url": "https://www.diarioviseu.pt/2026/11/26/cim-viseu-dao-lafoes-avanca-com-projeto-para-simplificar-processos-urbanisticos-nos-14-municipios/?utm_source=rss&utm_medium=rss&utm_campaign=cim-viseu-dao-lafoes-avanca-com-projeto-para-simplificar-processos-urbanisticos-nos-14-municipios",
+    "published": "2026-11-26T10:45Z",
     "source": "Diário de Viseu",
     "source_site": "https://www.diarioviseu.pt",
     "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
+    "read_at": "2026-11-26T11:14:25Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
    },
    {
-    "title": "Operação da PSP da Guarda termina com sete detidos e apreensão de droga, armas e cofre furtado",
-    "url": "https://www.diarioviseu.pt/2026/11/25/operacao-da-psp-da-guarda-termina-com-sete-detidos-e-apreensao-de-droga-armas-e-cofre-furtado/?utm_source=rss&utm_medium=rss&utm_campaign=operacao-da-psp-da-guarda-termina-com-sete-detidos-e-apreensao-de-droga-armas-e-cofre-furtado",
-    "published": "2026-11-25T21:15Z",
+    "title": "Neve cobre pontos mais altos da Serra da Estrela",
+    "url": "https://www.diarioviseu.pt/2026/11/26/serra-da-estrela-acorda-coberta-de-neve/?utm_source=rss&utm_medium=rss&utm_campaign=serra-da-estrela-acorda-coberta-de-neve",
+    "published": "2026-11-26T10:30Z",
     "source": "Diário de Viseu",
     "source_site": "https://www.diarioviseu.pt",
     "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
+    "read_at": "2026-11-26T11:14:25Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Iria Santos celebra 100 anos rodeada pelos cinco filhos e oito netos",
-    "url": "https://www.diarioviseu.pt/2026/11/25/iria-santos-celebra-100-anos-rodeada-pelos-cinco-filhos-e-oito-netos/?utm_source=rss&utm_medium=rss&utm_campaign=iria-santos-celebra-100-anos-rodeada-pelos-cinco-filhos-e-oito-netos",
-    "published": "2026-11-25T20:45Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
+    "title": "Investigadores da UPV representam Portugal nas Jornadas Internacionais de Vitivinicultura",
+    "url": "https://viseunow.pt/investigadores-da-upv-representam-portugal-nas-jornadas-internacionais-de-vitivinicultura/",
+    "published": "2026-11-26T10:23Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-26T11:14:48Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Subiu o preço do cabaz alimentar",
-    "url": "https://www.diarioviseu.pt/2026/11/25/subiu-o-preco-do-cabaz-alimentar/?utm_source=rss&utm_medium=rss&utm_campaign=subiu-o-preco-do-cabaz-alimentar",
-    "published": "2026-11-25T20:30Z",
+    "title": "Ucrânia: Governo russo rejeita a trégua exigida pela Comissão Europeia",
+    "url": "https://www.diarioviseu.pt/2026/11/26/ucrania-governo-russo-rejeita-a-tregua-exigida-pela-comissao-europeia/?utm_source=rss&utm_medium=rss&utm_campaign=ucrania-governo-russo-rejeita-a-tregua-exigida-pela-comissao-europeia",
+    "published": "2026-11-26T10:15Z",
     "source": "Diário de Viseu",
     "source_site": "https://www.diarioviseu.pt",
     "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-26T02:31:05Z",
+    "read_at": "2026-11-26T11:14:25Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Banco Alimentar de Viseu mobiliza perto de três mil voluntários para recolha de alimentos",
+    "url": "https://www.jornaldocentro.pt/banco-alimentar-de-viseu-mobiliza-perto-de-tres-mil-voluntarios-para-recolha-de-alimentos/",
+    "published": "2026-11-26T10:06Z",
+    "source": "Jornal do Centro",
+    "source_site": "https://www.jornaldocentro.pt",
+    "feed": "https://www.jornaldocentro.pt/feed/",
+    "read_at": "2026-11-26T11:10:47Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Sporting joga ‘oitavos’ da Taça em 16 de dezembro",
+    "url": "https://www.diarioviseu.pt/2026/11/26/sporting-joga-oitavos-da-taca-em-16-de-dezembro/?utm_source=rss&utm_medium=rss&utm_campaign=sporting-joga-oitavos-da-taca-em-16-de-dezembro",
+    "published": "2026-11-26T10:00Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-26T11:14:25Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Gala da APPDA acontece este sábado na Aula Magna da Universidade Politécnica de Viseu",
+    "url": "https://www.jornaldocentro.pt/gala-da-appda-acontece-este-sabado-na-aula-magna-da-universidade-politecnica-de-viseu/",
+    "published": "2026-11-26T10:00Z",
+    "source": "Jornal do Centro",
+    "source_site": "https://www.jornaldocentro.pt",
+    "feed": "https://www.jornaldocentro.pt/feed/",
+    "read_at": "2026-11-26T11:10:47Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Montenegro recusa criar cabaz alimentar com IVA zero",
+    "url": "https://www.diarioviseu.pt/2026/11/26/montenegro-recusa-criar-cabaz-alimentar-com-iva-zero/?utm_source=rss&utm_medium=rss&utm_campaign=montenegro-recusa-criar-cabaz-alimentar-com-iva-zero",
+    "published": "2026-11-26T09:45Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-26T11:14:25Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Carregal do Sal entrega casa do Programa 1º Direito",
+    "url": "https://viseunow.pt/carregal-do-sal-entrega-casa-do-programa-1o-direito/",
+    "published": "2026-11-26T09:31Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-26T11:14:48Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
    },
    {
     "title": "Ouriços de Viseu sagram-se Vice-Campeões Nacionais",
@@ -727,7 +782,7 @@
     "source": "Viseu Now",
     "source_site": "https://viseunow.pt/",
     "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
+    "read_at": "2026-11-26T11:14:48Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -738,7 +793,7 @@
     "source": "Viseu Now",
     "source_site": "https://viseunow.pt/",
     "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
+    "read_at": "2026-11-26T11:14:48Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -749,19 +804,8 @@
     "source": "Viseu Now",
     "source_site": "https://viseunow.pt/",
     "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
+    "read_at": "2026-11-26T11:14:48Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Pai Natal chega ao Fórum Viseu e abre época natalícia",
-    "url": "https://viseunow.pt/pai-natal-chega-ao-forum-viseu-e-abre-epoca-natalicia/",
-    "published": "2026-11-25T16:10Z",
-    "source": "Viseu Now",
-    "source_site": "https://viseunow.pt/",
-    "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -771,19 +815,8 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Tondela vai distribuir mais de 300 compostores domésticos gratuitos",
-    "url": "https://viseunow.pt/tondela-vai-distribuir-mais-de-300-compostores-domesticos-gratuitos/",
-    "published": "2026-11-25T15:19Z",
-    "source": "Viseu Now",
-    "source_site": "https://viseunow.pt/",
-    "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
-    "mentions_place": false,
     "date": "2026-11-25"
    },
    {
@@ -793,7 +826,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -804,7 +837,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -815,7 +848,7 @@
     "source": "Jornal do Centro",
     "source_site": "https://www.jornaldocentro.pt",
     "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
+    "read_at": "2026-11-26T11:10:47Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -826,7 +859,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -837,7 +870,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -848,19 +881,8 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Crianças de Viseu dão vida a cartazes de cinema em exposição na Casa da Ribeira",
-    "url": "https://viseunow.pt/criancas-de-viseu-dao-vida-a-cartazes-de-cinema-em-exposicao-na-casa-da-ribeira/",
-    "published": "2026-11-25T14:38Z",
-    "source": "Viseu Now",
-    "source_site": "https://viseunow.pt/",
-    "feed": "https://viseunow.pt/feed/",
-    "read_at": "2026-11-26T02:31:39Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -870,7 +892,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:31:07Z",
+    "read_at": "2026-11-26T11:14:27Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -881,7 +903,7 @@
     "source": "Jornal do Centro",
     "source_site": "https://www.jornaldocentro.pt",
     "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
+    "read_at": "2026-11-26T11:10:47Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -892,7 +914,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -903,7 +925,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -914,7 +936,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -925,7 +947,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -936,7 +958,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:31:09Z",
+    "read_at": "2026-11-26T11:14:30Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -947,7 +969,7 @@
     "source": "Jornal do Centro",
     "source_site": "https://www.jornaldocentro.pt",
     "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
+    "read_at": "2026-11-26T11:10:47Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -958,29 +980,7 @@
     "source": "Jornal do Centro",
     "source_site": "https://www.jornaldocentro.pt",
     "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "APCV leva ao Teatro Viriato espetáculo sobre inclusão, diversidade e afetos",
-    "url": "https://www.jornaldocentro.pt/apcv-leva-ao-teatro-viriato-espetaculo-sobre-inclusao-diversidade-e-afetos/",
-    "published": "2026-11-25T09:51Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Alunos de Viseu dão voz a histórias de crianças migrantes que viajaram sozinhas em novo espetáculo da Cem Palcos",
-    "url": "https://www.jornaldocentro.pt/alunos-de-viseu-dao-voz-a-historias-de-criancas-migrantes-que-viajaram-sozinhas-em-novo-espetaculo-da-cem-palcos/",
-    "published": "2026-11-25T09:48Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-26T02:27:51Z",
+    "read_at": "2026-11-26T11:10:47Z",
     "mentions_place": true,
     "date": "2026-11-25"
    }
