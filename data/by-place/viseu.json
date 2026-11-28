@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.viseu@PrompTugal.dinis",
  "mandate": "PrompTugal.news Viseu: AI and technology in Viseu, a district capital of the Beira interior whose centre of gravity is its polytechnic university, the council's public-sector AI work and a regional industry that is just starting to talk about AI, and what reaches Viseu from Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -642,26 +642,92 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.viseu@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Bispo de Viseu convida toda a diocese à solidariedade",
-   "url": "https://www.diarioviseu.pt/2026/11/27/bispo-de-viseu-convida-toda-a-diocese-a-solidariedade/?utm_source=rss&utm_medium=rss&utm_campaign=bispo-de-viseu-convida-toda-a-diocese-a-solidariedade",
+   "title": "Prisão preventiva para suspeito de coação sexual e pornografia de menores detido em Viseu",
+   "url": "https://www.diarioviseu.pt/2026/11/27/prisao-preventiva-para-suspeito-de-coacao-sexual-e-pornografia-de-menores-detido-em-viseu/?utm_source=rss&utm_medium=rss&utm_campaign=prisao-preventiva-para-suspeito-de-coacao-sexual-e-pornografia-de-menores-detido-em-viseu",
    "source": "Diário de Viseu",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:28:37Z",
+   "read_at": "2026-11-28T07:28:05Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Ex-advogado julgado por burla na venda de apartamentos em Espinho",
-    "url": "https://www.diarioviseu.pt/2026/11/27/ex-advogado-julgado-por-burla-na-venda-de-apartamentos-em-espinho/?utm_source=rss&utm_medium=rss&utm_campaign=ex-advogado-julgado-por-burla-na-venda-de-apartamentos-em-espinho",
-    "published": "2026-11-27T18:15Z",
+    "title": "Bezerros capturados dentro de carro pela polícia",
+    "url": "https://www.diarioviseu.pt/2026/11/27/bezerros-capturados-dentro-de-carro-pela-policia/?utm_source=rss&utm_medium=rss&utm_campaign=bezerros-capturados-dentro-de-carro-pela-policia",
+    "published": "2026-11-27T21:45Z",
     "source": "Diário de Viseu",
     "source_site": "https://www.diarioviseu.pt",
     "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Mortes por sarampo diminuem 91% em 25 anos, mas perda do estatuto de eliminação preocupa OMS",
+    "url": "https://www.diarioviseu.pt/2026/11/27/mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms/?utm_source=rss&utm_medium=rss&utm_campaign=mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms",
+    "published": "2026-11-27T21:30Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Ministra promete contrapartidas na região abrangida pela barragem de Girabolhos",
+    "url": "https://www.diarioviseu.pt/2026/11/27/ministra-promete-contrapartidas-na-regiao-abrangida-pela-barragem-de-girabolhos/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-promete-contrapartidas-na-regiao-abrangida-pela-barragem-de-girabolhos",
+    "published": "2026-11-27T21:15Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Prisão preventiva para suspeito de coação sexual e pornografia de menores detido em Viseu",
+    "url": "https://www.diarioviseu.pt/2026/11/27/prisao-preventiva-para-suspeito-de-coacao-sexual-e-pornografia-de-menores-detido-em-viseu/?utm_source=rss&utm_medium=rss&utm_campaign=prisao-preventiva-para-suspeito-de-coacao-sexual-e-pornografia-de-menores-detido-em-viseu",
+    "published": "2026-11-27T20:45Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Novembro de 2026 é um dos quatro mais chuvosos desde 2000",
+    "url": "https://www.diarioviseu.pt/2026/11/27/novembro-de-2026-e-um-dos-quatro-mais-chuvosos-desde-2000/?utm_source=rss&utm_medium=rss&utm_campaign=novembro-de-2026-e-um-dos-quatro-mais-chuvosos-desde-2000",
+    "published": "2026-11-27T20:30Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Magia do Natal chega às ruas, praças e jardins com meio milhão de luzes",
+    "url": "https://www.diarioviseu.pt/2026/11/27/magia-do-natal-chega-as-ruas-pracas-e-jardins-com-meio-milhao-de-luzes/?utm_source=rss&utm_medium=rss&utm_campaign=magia-do-natal-chega-as-ruas-pracas-e-jardins-com-meio-milhao-de-luzes",
+    "published": "2026-11-27T20:15Z",
+    "source": "Diário de Viseu",
+    "source_site": "https://www.diarioviseu.pt",
+    "feed": "https://www.diarioviseu.pt/feed/",
+    "read_at": "2026-11-28T07:28:05Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Now Opinião – Alexandre Hoffmann analisa a votação do Orçamento do Estado",
+    "url": "https://viseunow.pt/now-opiniao-alexandre-hoffmann-analisa-a-votacao-do-orcamento-do-estado/",
+    "published": "2026-11-27T19:00Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -672,51 +738,18 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Tiago Abalroado apresenta candidatura à direção da Confederação Nacional das Instituições de Solidariedade",
-    "url": "https://www.diarioviseu.pt/2026/11/27/tiago-abalroado-apresenta-candidatura-a-direcao-da-confederacao-nacional-das-instituicoes-de-solidariedade/?utm_source=rss&utm_medium=rss&utm_campaign=tiago-abalroado-apresenta-candidatura-a-direcao-da-confederacao-nacional-das-instituicoes-de-solidariedade",
-    "published": "2026-11-27T17:30Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Bispo de Viseu convida toda a diocese à solidariedade",
-    "url": "https://www.diarioviseu.pt/2026/11/27/bispo-de-viseu-convida-toda-a-diocese-a-solidariedade/?utm_source=rss&utm_medium=rss&utm_campaign=bispo-de-viseu-convida-toda-a-diocese-a-solidariedade",
-    "published": "2026-11-27T17:15Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Trânsito cortado no Fontelo devido ao jogo do Académico de Viseu",
-    "url": "https://www.diarioviseu.pt/2026/11/27/transito-cortado-no-fontelo-devido-ao-jogo-do-academico-de-viseu/?utm_source=rss&utm_medium=rss&utm_campaign=transito-cortado-no-fontelo-devido-ao-jogo-do-academico-de-viseu",
-    "published": "2026-11-27T16:45Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Morreu o professor José Ernesto Silva, almoxarife da Confraria de Saberes e Sabores da Beira “Grão Vasco”",
-    "url": "https://www.jornaldocentro.pt/morreu-o-professor-jose-ernesto-silva-almoxarife-da-confraria-de-saberes-e-sabores-da-beira-grao-vasco/",
-    "published": "2026-11-27T16:44Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
+    "title": "Nelas arranca esta sexta-feira e fim de semana com programação de Natal",
+    "url": "https://viseunow.pt/nelas-arranca-esta-sexta-feira-e-fim-de-semana-com-programacao-de-natal/",
+    "published": "2026-11-27T16:41Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -727,19 +760,8 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Aguiar da Beira recebe encontro nacional dedicado aos jovens agricultores",
-    "url": "https://www.diarioviseu.pt/2026/11/27/aguiar-da-beira-recebe-encontro-nacional-dedicado-aos-jovens-agricultores/?utm_source=rss&utm_medium=rss&utm_campaign=aguiar-da-beira-recebe-encontro-nacional-dedicado-aos-jovens-agricultores",
-    "published": "2026-11-27T16:15Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
-    "mentions_place": false,
     "date": "2026-11-27"
    },
    {
@@ -749,18 +771,18 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Faleceu José Ernesto Silva, almoxarife da Confraria “Grão Vasco”",
-    "url": "https://www.diarioviseu.pt/2026/11/27/faleceu-jose-ernesto-silva-almoxarife-da-confraria-grao-vasco/?utm_source=rss&utm_medium=rss&utm_campaign=faleceu-jose-ernesto-silva-almoxarife-da-confraria-grao-vasco",
-    "published": "2026-11-27T16:00Z",
-    "source": "Diário de Viseu",
-    "source_site": "https://www.diarioviseu.pt",
-    "feed": "https://www.diarioviseu.pt/feed/",
-    "read_at": "2026-11-27T18:28:37Z",
+    "title": "Programa “Tô de Férias” em Armamar abre inscrições para as férias de Natal com 80 vagas",
+    "url": "https://viseunow.pt/programa-to-de-ferias-em-armamar-abre-inscricoes-para-as-ferias-de-natal-com-80-vagas/",
+    "published": "2026-11-27T16:02Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -771,7 +793,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -782,7 +804,7 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -793,8 +815,19 @@
     "source": "Estação Diária Edição Jornal",
     "source_site": "https://estacaodiariajornal.sapo.pt",
     "feed": "https://estacaodiariajornal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:39Z",
+    "read_at": "2026-11-28T07:28:08Z",
     "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Floresta das Renas chega a Viseu pelas mãos da Criaverde",
+    "url": "https://viseunow.pt/floresta-das-renas-chega-a-viseu-pelas-maos-da-criaverde/",
+    "published": "2026-11-27T15:16Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
+    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -804,8 +837,19 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Courir abre nova loja no Forum Viseu",
+    "url": "https://viseunow.pt/courir-abre-nova-loja-no-forum-viseu/",
+    "published": "2026-11-27T14:26Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
+    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -815,7 +859,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -826,7 +870,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -837,8 +881,19 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Action prepara abertura da primeira loja em Viseu",
+    "url": "https://viseunow.pt/action-prepara-abertura-da-primeira-loja-em-viseu/",
+    "published": "2026-11-27T12:28Z",
+    "source": "Viseu Now",
+    "source_site": "https://viseunow.pt/",
+    "feed": "https://viseunow.pt/feed/",
+    "read_at": "2026-11-28T07:28:27Z",
+    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -848,7 +903,7 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -859,63 +914,8 @@
     "source": "Mega Hits Viseu",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:28:42Z",
+    "read_at": "2026-11-28T07:28:10Z",
     "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "PSD destaca investimentos no distrito de Viseu após aprovação do Orçamento do Estado para 2027",
-    "url": "https://www.jornaldocentro.pt/psd-destaca-investimentos-no-distrito-de-viseu-apos-aprovacao-do-orcamento-do-estado-para-2027/",
-    "published": "2026-11-27T10:55Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Associação de Futebol de Viseu cria fundo para promover o fair play e boas práticas nos clubes",
-    "url": "https://www.jornaldocentro.pt/associacao-de-futebol-de-viseu-cria-fundo-para-promover-o-fair-play-e-boas-praticas-nos-clubes/",
-    "published": "2026-11-27T10:52Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Proposta de orçamento da Câmara de Santa Comba Dão chumbada",
-    "url": "https://www.jornaldocentro.pt/proposta-de-orcamento-da-camara-de-santa-comba-dao-chumbada/",
-    "published": "2026-11-27T10:52Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Homem detido em Castro Daire por ameaças e posse de armas proibidas",
-    "url": "https://www.jornaldocentro.pt/homem-detido-em-castro-daire-por-ameacas-e-posse-de-armas-proibidas/",
-    "published": "2026-11-27T10:49Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "CIM Viseu Dão Lafões com representação permanente em Bruxelas",
-    "url": "https://www.jornaldocentro.pt/cim-viseu-dao-lafoes-com-representacao-permanente-em-bruxelas/",
-    "published": "2026-11-27T10:45Z",
-    "source": "Jornal do Centro",
-    "source_site": "https://www.jornaldocentro.pt",
-    "feed": "https://www.jornaldocentro.pt/feed/",
-    "read_at": "2026-11-27T18:24:56Z",
-    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -925,7 +925,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    },
@@ -936,7 +936,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    },
@@ -947,7 +947,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    },
@@ -958,7 +958,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    },
@@ -969,7 +969,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    },
@@ -980,7 +980,7 @@
     "source": "Região de Coimbra",
     "source_site": "https://www.regiaodecoimbra.pt",
     "feed": "https://www.regiaodecoimbra.pt/feed/",
-    "read_at": "2026-11-27T18:28:50Z",
+    "read_at": "2026-11-28T07:28:17Z",
     "mentions_place": false,
     "date": null
    }
